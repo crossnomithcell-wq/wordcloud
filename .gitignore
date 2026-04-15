@@ -19,3 +19,7 @@ Thumbs.db
 # 临时文件和日志
 *.log
 .streamlit/
+
+# 前端忽略文件 (如果以后你们用了 npm 安装前端包)
+frontend/node_modules/
+.DS_Store
